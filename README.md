@@ -32,7 +32,7 @@ You’ll see a window where you can select which headers and cookies should be r
 ## Screenshots
 
 #### Estimated system impact
-![estimated impact](estimated-impact.png)
+![estimated impact](system-impact.png)
 
 #### Usage
 ![usage](usage.png)
